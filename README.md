@@ -7,6 +7,7 @@ I made this in around 3 hours
 - Support for active mode
 - Support for passive mode
 - Support for almost all commands issued by the Linux/Unix FTP tool
+- Multiple users connected at the same time
 
 ## Why you shouldn't use this
 - Encryption is disabled
