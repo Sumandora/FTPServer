@@ -1,6 +1,6 @@
 
 # FTPServer
-A, not entirely correct nor practical, FTP server written in Kotlin
+A, not entirely correct nor practical, FTP server written in Kotlin  
 I made this in around 3 hours
 
 ## Features
@@ -16,6 +16,5 @@ I made this in around 3 hours
 - There are no restrictions on what folders you can mess with
 
 ## Why was this made?
-This is a small project, which is mainly intended for research and documentation purposes
-
+This is a small project, which is mainly intended for research and documentation purposes  
 P.S. I know the code is trash, I don't care
